@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "9b3b564c40e04d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cef06d5839584f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee280a3b735f0d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cookie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "420478b99a1cde8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 jmeter 使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc5cd67a759a0201",
+    "type": "split",
+    "children": [
+      {
+        "id": "7830212daf00b2d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3651b2c97f78b7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e168a5cba9cf5b89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83e42ec50059749c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a71e6cb33598ba11",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ce848677b61b4f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee181022f19b9ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002 jmeter 使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa3d7a84c9def838",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "002 jmeter 使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70495d3d21274c7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5abfa914a13d9724",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "002 jmeter 使用.md"
+              }
+            }
+          },
+          {
+            "id": "a35d626b01a676b3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "420478b99a1cde8a",
+  "lastOpenFiles": [
+    "img/Pasted image 20230908223805.png",
+    "img/Pasted image 20230908223613.png",
+    "fiddle.md",
+    "017DF129.png",
+    "软件测试题/面试题.md",
+    "cookie.md",
+    "算法题/华为od.md",
+    "img/Pasted image 20230906211451.png",
+    "Python/Python基础.md",
+    "000使用方法.md",
+    "未命名.canvas",
+    "img/Pasted image 20230803221817.png",
+    "img/Pasted image 20230816224831.png",
+    "img/Pasted image 20230816225257.png",
+    "img/Pasted image 20230816230440.png",
+    "img/IMG_9944(20230804-171821).jpg",
+    "img/IMG_9943(20230804-171712).jpg",
+    "书籍清单/001信息收集处.md",
+    "书籍清单/📗鸟哥的 Linux 私房菜：基础学习篇 第四版 (wizardforcel) (Z-Library).pdf",
+    "img/Pasted image 20230904205559.png",
+    "img",
+    "算法题/算法题.md",
+    "算法题",
+    "002 jmeter 使用.md",
+    "性能测试.md",
+    "书籍清单/鸟哥的Linux私房菜笔记.md",
+    "网课三天/第一天.md",
+    "001postman 使用.md",
+    "学习方法/未命名.md",
+    "软件测试题",
+    "学习方法",
+    "未命名/pytest.md",
+    "HTTP/TCP IP.md",
+    "未命名",
+    "网课三天",
+    "HTTP/HTTP.md",
+    "HTTP/Apache 和 Tomcat.md",
+    "算法题/经典排序算法.md",
+    "www.bejson.com.md",
+    "HTTP",
+    "Python",
+    "书籍清单"
+  ]
+}
